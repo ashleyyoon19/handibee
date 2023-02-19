@@ -1,6 +1,4 @@
-import cat from "../img/cat.jpeg";
 import ImgCapture from "./ImgCapture";
-import ImgClassifier from "../backend/ImgClassifier";
 import './style.css';
 
 export default function Home() {
