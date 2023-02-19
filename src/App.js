@@ -1,4 +1,3 @@
-import Home from './frontend/Home';
 import Begin from './frontend/Begin';
 import YourWordIs from './frontend/YourWordIs';
 import YourAnswer from './frontend/YourAnswer';
