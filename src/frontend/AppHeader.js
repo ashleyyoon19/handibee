@@ -3,7 +3,7 @@ import './style.css';
 const AppHeader = () => {
     return(
         <header>
-            <h1 class="nav-main vertical">handibee</h1>
+            <h1 className="nav-main vertical">handibee</h1>
         </header>
     );
 };
